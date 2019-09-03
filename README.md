@@ -2,6 +2,8 @@ This is my fork of turndown that I use just to have it as a github page with [di
 
 Please check the original software on [domchristie/turndown](https://github.com/domchristie/turndown)
 
+---
+
 
 # Turndown
 

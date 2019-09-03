@@ -1,3 +1,8 @@
+This is my fork of turndown that I use just to have it as a github page with [different default options](https://luispuerto.github.io/turndown/), so I can c&p HTML content on it and get markdown with my preferred formating. 
+
+Please check the original software on [domchristie/turndown](https://github.com/domchristie/turndown)
+
+
 # Turndown
 
 [![Build Status](https://travis-ci.org/domchristie/turndown.svg?branch=master)](https://travis-ci.org/domchristie/turndown)

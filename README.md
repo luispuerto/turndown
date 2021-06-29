@@ -11,7 +11,9 @@ Please check the original software on [domchristie/turndown](https://github.com/
 
 Convert HTML into Markdown with JavaScript.
 
-### to-markdown has been renamed to Turndown. See the [migration guide](https://github.com/domchristie/to-markdown/wiki/Migrating-from-to-markdown-to-Turndown) for details.
+## Project Updates
+* `to-markdown` has been renamed to Turndown. See the [migration guide](https://github.com/domchristie/to-markdown/wiki/Migrating-from-to-markdown-to-Turndown) for details.
+* Turndown repository has changed its URL to https://github.com/mixmark-io/turndown.
 
 ## Installation
 
@@ -64,6 +66,7 @@ var turndownService = new TurndownService({ option: 'value' })
 | `strongDelimiter`     | `**` or `__` | `**` |
 | `linkStyle`           | `inlined` or `referenced` | `inlined` |
 | `linkReferenceStyle`  | `full`, `collapsed`, or `shortcut` | `full` |
+| `preformattedCode`    | `false` or [`true`](https://github.com/lucthev/collapse-whitespace/issues/16) | `false` |
 
 ### Advanced Options
 
